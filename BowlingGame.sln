@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{688A93DB-35D9-0FB0-8418-F74D3867CDE2}") = "BowlingGame", "Assembly-CSharp.csproj", "{E55EB172-B271-B67B-9E8D-9A6A3E5CF5A9}"
+EndProject
+Project("{688A93DB-35D9-0FB0-8418-F74D3867CDE2}") = "BowlingGame", "Assembly-CSharp-Editor.csproj", "{DAB42D52-5F63-0B49-3314-455E66A312DD}"
+EndProject
+Project("{688A93DB-35D9-0FB0-8418-F74D3867CDE2}") = "BowlingGame", "Assembly-UnityScript.unityproj", "{4E02421B-9BED-EF20-3D3C-D6A676005B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55EB172-B271-B67B-9E8D-9A6A3E5CF5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55EB172-B271-B67B-9E8D-9A6A3E5CF5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55EB172-B271-B67B-9E8D-9A6A3E5CF5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55EB172-B271-B67B-9E8D-9A6A3E5CF5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB42D52-5F63-0B49-3314-455E66A312DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB42D52-5F63-0B49-3314-455E66A312DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB42D52-5F63-0B49-3314-455E66A312DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB42D52-5F63-0B49-3314-455E66A312DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E02421B-9BED-EF20-3D3C-D6A676005B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E02421B-9BED-EF20-3D3C-D6A676005B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E02421B-9BED-EF20-3D3C-D6A676005B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E02421B-9BED-EF20-3D3C-D6A676005B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
